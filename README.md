@@ -157,7 +157,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 **Kilari Mohan Sai**
 - LinkedIn: [Mohan Kilari](https://www.linkedin.com/in/mohan-kilari-207a131a2/)
-- GitHub: [@kilarimohan](https://github.com/kilarimohan)
+- GitHub: [@Mohan-github]([https://github.com/kilarimohan](https://github.com/Mohan-gtihub))
 
 ## 🙏 Acknowledgments
 
